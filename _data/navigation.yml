@@ -1,7 +1,13 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Conference Publications"
+    url:
+  - title: "Journal Publications"
+    url: 
+  - title: "Workshop Publications"
+    url:  
+  - title: "Talks"
+    url:  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
